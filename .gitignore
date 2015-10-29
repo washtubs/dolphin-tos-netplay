@@ -1,0 +1,9 @@
+Cache/
+Config/Profiles
+Config/GCPadNew.ini
+Config/Logger.ini
+Config/WiimoteNew.ini
+GC/SRAM.raw
+Logs/
+ShaderCache/
+Wii/
